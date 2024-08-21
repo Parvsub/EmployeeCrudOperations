@@ -1,0 +1,75 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<p>
+    <button class="btn btn-primary" id="btnAddEmployee" data-toggle="modal" data-target="#addEmployeeModal">Add Employee</button>
+</p>
+
+<!-- Employee Table -->
+<table class="table" id="employeeTable">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Company Name</th>
+            <th>Designation</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Table rows populated by AJAX -->
+    </tbody>
+</table>
+
+<!-- Add Employee Modal -->
+<div class="modal" id="addEmployeeModal" tabindex="-1" role="dialog" aria-labelledby="addEmployeeModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="addEmployeeModalLabel">Add Employee</h5>
+                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true" id="Closebutton">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="employeeForm">
+                    <div class="form-group">
+                        <label for="employeeId">Id</label>
+                        <input type="text" class="form-control" id="employeeId" name="Id" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="employeeName">Name</label>
+                        <input type="text" class="form-control" id="employeeName" name="Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="employeeCompany">Company Name</label>
+                        <input type="text" class="form-control" id="employeeCompany" name="CompanyName" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="employeeDesignation">Designation</label>
+                        <input type="text" class="form-control" id="employeeDesignation" name="Designation" required>
+                    </div>
+                    <button type="button" class="btn btn-primary" id="submitEmployeeForm" onclick="AddEmployee()">Save</button>
+                    <button type="button" class="btn btn-warning" id="updateEmployeeForm" data-id="" onclick="UpdateEmployee()">Update</button>
+                    <button type="button" class="btn btn-secondary" id="CloseButton" data-bs-dismiss="modal" data-id="">Close</button>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/js/employeescript.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>

@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\vinod\\source\\repos\\accessmeditechprojects\\employeemanagement\\employeemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\vinod\\source\\repos\\accessmeditechprojects\\employeemanagement\\employeemanagement\\wwwroot\\js\\employeescript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\wwwroot\\js\\employeescript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\vinod\\source\\repos\\accessmeditechprojects\\employeemanagement\\employeemanagement\\views\\employee\\getemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\employee\\getemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\vinod\\source\\repos\\accessmeditechprojects\\employeemanagement\\employeemanagement\\models\\entities\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\entities\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\vinod\\source\\repos\\accessmeditechprojects\\employeemanagement\\employeemanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\vinod\\source\\repos\\accessmeditechprojects\\employeemanagement\\employeemanagement\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\vinod\\source\\repos\\accessmeditechprojects\\employeemanagement\\employeemanagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\vinod\\source\\repos\\accessmeditechprojects\\employeemanagement\\employeemanagement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\vinod\\source\\repos\\accessmeditechprojects\\employeemanagement\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\vinod\\source\\repos\\accessmeditechprojects\\employeemanagement\\employeemanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\vinod\\source\\repos\\accessmeditechprojects\\employeemanagement\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\vinod\\source\\repos\\accessmeditechprojects\\employeemanagement\\employeemanagement\\migrations\\20240819130416_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8990A17D-8164-42D7-97E2-86B7B27A4470}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\migrations\\20240819130416_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeScript.js",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\wwwroot\\js\\EmployeeScript.js",
+              "RelativeDocumentMoniker": "EmployeeManagement\\wwwroot\\js\\EmployeeScript.js",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\wwwroot\\js\\EmployeeScript.js",
+              "RelativeToolTip": "EmployeeManagement\\wwwroot\\js\\EmployeeScript.js",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAswIkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-20T10:18:54.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:07:13.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetEmployees.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\GetEmployees.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Employee\\GetEmployees.cshtml",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\GetEmployees.cshtml",
+              "RelativeToolTip": "EmployeeManagement\\Views\\Employee\\GetEmployees.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwDwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T13:08:48.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\Models\\Entities\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\Entities\\EmployeeDetails.cs",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\Models\\Entities\\EmployeeDetails.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\Entities\\EmployeeDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:04:29.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:04:26.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeToolTip": "EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ViewState": "AgIAAMMDAAAAAAAAAAAkwNADAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-20T11:59:09.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:56:50.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "EmployeeManagement\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "EmployeeManagement\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-20T11:38:27.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EmployeeManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T13:07:44.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T13:02:25.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240819130416_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\Migrations\\20240819130416_Initial Migration.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Migrations\\20240819130416_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\Migrations\\20240819130416_Initial Migration.cs",
+              "RelativeToolTip": "EmployeeManagement\\Migrations\\20240819130416_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:04:16.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:03:01.7Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

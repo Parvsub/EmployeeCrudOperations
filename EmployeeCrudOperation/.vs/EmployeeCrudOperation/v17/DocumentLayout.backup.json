@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|c:\\users\\vinod\\source\\repos\\accessmeditechprojects\\employeecrudoperation\\employeecrudoperation\\emppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|solutionrelative:employeecrudoperation\\emppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\employeecrudoperation\\emppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|solutionrelative:employeecrudoperation\\emppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\employeecrudoperation\\models\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|solutionrelative:employeecrudoperation\\models\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\employeecrudoperation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|solutionrelative:employeecrudoperation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\employeecrudoperation\\emppage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|solutionrelative:employeecrudoperation\\emppage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\employeecrudoperation\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|solutionrelative:employeecrudoperation\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\employeecrudoperation\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|solutionrelative:employeecrudoperation\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\employeecrudoperation\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|solutionrelative:employeecrudoperation\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\employeecrudoperation\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|solutionrelative:employeecrudoperation\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\employeecrudoperation\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|solutionrelative:employeecrudoperation\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\employeecrudoperation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DBCF31DC-E800-4CBB-9FBA-9126C9F6FCBD}|EmployeeCrudOperation\\EmployeeCrudOperation.csproj|solutionrelative:employeecrudoperation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpPage.aspx",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\EmpPage.aspx",
+              "RelativeDocumentMoniker": "EmployeeCrudOperation\\EmpPage.aspx",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\EmpPage.aspx",
+              "RelativeToolTip": "EmployeeCrudOperation\\EmpPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-19T17:56:12.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\EmpPage.aspx.cs",
+              "RelativeDocumentMoniker": "EmployeeCrudOperation\\EmpPage.aspx.cs",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\EmpPage.aspx.cs",
+              "RelativeToolTip": "EmployeeCrudOperation\\EmpPage.aspx.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwD8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:56:28.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDAL.cs",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\Models\\EmployeeDAL.cs",
+              "RelativeDocumentMoniker": "EmployeeCrudOperation\\Models\\EmployeeDAL.cs",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\Models\\EmployeeDAL.cs",
+              "RelativeToolTip": "EmployeeCrudOperation\\Models\\EmployeeDAL.cs",
+              "ViewState": "AgIAAE8AAAAAAMBN0SIwwF8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:22:54.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeCrudOperation\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeCrudOperation\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:22:31.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpPage.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\EmpPage.aspx.designer.cs",
+              "RelativeDocumentMoniker": "EmployeeCrudOperation\\EmpPage.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\EmpPage.aspx.designer.cs",
+              "RelativeToolTip": "EmployeeCrudOperation\\EmpPage.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:11:20.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "EmployeeCrudOperation\\Default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\Default.aspx.designer.cs",
+              "RelativeToolTip": "EmployeeCrudOperation\\Default.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:32:40.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "EmployeeCrudOperation\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\Default.aspx.cs",
+              "RelativeToolTip": "EmployeeCrudOperation\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:04:32.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\Site.Master",
+              "RelativeDocumentMoniker": "EmployeeCrudOperation\\Site.Master",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\Site.Master",
+              "RelativeToolTip": "EmployeeCrudOperation\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-19T18:02:29.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\Default.aspx",
+              "RelativeDocumentMoniker": "EmployeeCrudOperation\\Default.aspx",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\Default.aspx",
+              "RelativeToolTip": "EmployeeCrudOperation\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-19T18:04:28.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\Contact.aspx",
+              "RelativeDocumentMoniker": "EmployeeCrudOperation\\Contact.aspx",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\Contact.aspx",
+              "RelativeToolTip": "EmployeeCrudOperation\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-19T18:11:24.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\Web.config",
+              "RelativeDocumentMoniker": "EmployeeCrudOperation\\Web.config",
+              "ToolTip": "C:\\Users\\vinod\\source\\repos\\AccessMediTechProjects\\EmployeeCrudOperation\\EmployeeCrudOperation\\Web.config",
+              "RelativeToolTip": "EmployeeCrudOperation\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-19T17:36:19.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
